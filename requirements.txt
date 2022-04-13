@@ -1,0 +1,2 @@
+qrcode-terminal
+whatsapp-web.js
